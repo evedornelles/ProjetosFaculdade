@@ -10,7 +10,7 @@ typedef struct {
     int pontos_turisticos;
     float densidade_populacional;
     float pib_per_capita;
-} Carta
+} Carta;
 
 void calcular_atributos(Carta *carta) {
     carta->densidade_populacional = carta->populacao / carta->area;
