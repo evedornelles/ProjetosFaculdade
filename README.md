@@ -7,7 +7,7 @@ Repositório dedicado aos projetos desenvolvidos durante a faculdade utilizando 
 Este repositório contém códigos e exercícios realizados ao longo do curso de Ciência da Computação, abordando conceitos fundamentais da linguagem C.
 
 ## 📌 Contribuições
-Caso queira contribuir, fique à vontade para abrir um Pull Request ou sugerir melhorias via Issues
+Caso queira contribuir, fique à vontade para abrir um Pull Request ou sugerir melhorias via Issues.
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
